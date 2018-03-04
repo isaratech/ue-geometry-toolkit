@@ -1,0 +1,23 @@
+{
+    "FileVersion" : 3,
+    "FriendlyName" : "Geometry Toolkit",
+    "Version" : 1,
+    "VersionName": "1.0",
+    "Description" : "Library of geometry related functions.",
+    "Category" : "Geometry Toolkit",
+    "CreatedBy" : "IsaraTech.",
+    "CreatedByURL" : "http://www.isaratech.com",
+	"DocsURL": "",
+	"MarketplaceURL" : "",
+    "CanContainContent" : "false",
+	"IsBetaVersion": false,
+	"Installed": false,
+	"EngineVersion": "4.18.0",
+	"Modules": [
+		{
+			"Name": "GeometryToolkit",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}
